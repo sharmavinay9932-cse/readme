@@ -39,17 +39,11 @@
 ## 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse\&layout=compact\&theme=tokyonight)
-![Python](https://img.shields.io/badge/Python-yellow)
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-00599C)
+
 
 ---
 
-## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sharmavinay9932-cse\&color=blue)
-
----
 
 ## 📫 Connect with Me
 

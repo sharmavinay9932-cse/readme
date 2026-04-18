@@ -39,6 +39,9 @@
 ## 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse\&layout=compact\&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-yellow)
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-00599C)
 
 ---
 

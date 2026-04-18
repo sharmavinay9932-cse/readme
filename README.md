@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vinay Sharma
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&color=00F7FF\&center=true\&vCenter=true\&width=500\&lines=B.Tech+Student;DSA+Learner;Future+Software+Engineer;Consistent+Coder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Vinay+Sharma;B.Tech+Student+from+India;DSA+%7C+Problem+Solving;DAA+%7C+OS+%7C+COA;Future+Software+Engineer;Building+Strong+Coding+Profile;Focused+on+Placements;Open+to+Opportunities;Consistent+Daily+Learner)
 
 🎓 B.Tech Student | 💻 Aspiring Software Developer
 📍 Punjab, India
@@ -28,32 +28,32 @@
 
 ## 📊 GitHub Stats
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmavinay9932-cse\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sharmavinay9932-cse\&theme=tokyonight)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=sharmavinay9932-cse\&color=blue)
 
 ---
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINK
-* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* LinkedIn: 
+* Email: [Sharmavinay9932@gmail.com](mailto:your-email@gmail.com)
 
 ---
 

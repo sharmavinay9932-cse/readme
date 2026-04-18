@@ -1,6 +1,5 @@
 # Hi 👋, I'm Vinay Sharma
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Vinay+Sharma;B.Tech+Student+from+India;DSA+%7C+Problem+Solving;DAA+%7C+OS+%7C+COA;Future+Software+Engineer;Building+Strong+Coding+Profile;Focused+on+Placements;Open+to+Opportunities;Consistent+Daily+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Vinay+Sharma;B.Tech+Student+from+India;Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Learner;Building+AI+Projects;Exploring+Python+%26+AI;Focused+on+Future+Tech;Consistent+Learner;Open+to+Opportunities)
 
 🎓 B.Tech Student | 💻 Aspiring Software Developer
 📍 Punjab, India
@@ -10,7 +9,6 @@
 ## 🚀 About Me
 
 * 🌱 Currently learning: **Data Structures & Algorithms, Python**
-* 📚 Subjects: **DAA, COA, Operating System, Mathematics**
 * 💡 Interested in: **Problem Solving & Development**
 * 🎯 Goal: **Crack placement & build strong coding profile**
 

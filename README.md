@@ -198,15 +198,9 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sharmavinay9932-cse&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
----
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats-eight.vercel.app/?user=sharmavinay9932-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
----
 
 ## 🐍 Contribution Snake
 

@@ -36,7 +36,7 @@
 
 Completed industrial training at **Sonalika International Tractors Ltd.**, gaining exposure to a professional industrial environment and practical understanding of technical and organizational workflows.
 
-**Training Highlights:**
+### 🎯 Training Highlights
 
 * 🏭 Professional industrial environment
 * 🔧 Technical and operational exposure
@@ -187,7 +187,7 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmavinay9932-cse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sharmavinay9932-cse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -195,7 +195,7 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sharmavinay9932-cse&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
@@ -203,7 +203,7 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharmavinay9932-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats-eight.vercel.app/?user=sharmavinay9932-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -228,7 +228,7 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact Me
 
 <p align="center">
 
@@ -241,6 +241,8 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 </a>
 
 </p>
+
+📧 **Email:** `sharmavinay9932@gmail.com`
 
 ---
 
@@ -255,4 +257,3 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-

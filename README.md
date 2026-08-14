@@ -85,6 +85,9 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <p align="center">
 </p>
 
 **Libraries:** `NumPy` • `Pandas` • `Matplotlib` • `Seaborn`

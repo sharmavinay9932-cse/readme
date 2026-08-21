@@ -145,9 +145,6 @@ The model is deployed using **Streamlit**, allowing users to enter patient infor
 
 This project is intended for educational and Machine Learning demonstration purposes only. It should not be used as a substitute for professional medical advice or diagnosis.
 
-### 🔗 Project Repository
-
-[View Heart Disease Prediction Project](YOUR_GITHUB_REPOSITORY_LINK)
 
 
 ### 🚀 Space Shooter Pro

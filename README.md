@@ -161,7 +161,7 @@ Machine Learning regression project for predicting monthly tractor sales using h
 
 **Tech:** `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `Pickle` `Streamlit`
 
-**Project:** [🚜 Tractor Sales Prediction](YOUR_REPOSITORY_LINK)
+**Project:** [🚜 Tractor Sales Prediction](https://github.com/sharmavinay9932-cse/tractor-price-predictor/tree/main)
 
 ### 🚀 Space Shooter Pro
 

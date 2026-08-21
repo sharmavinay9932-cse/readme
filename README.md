@@ -145,7 +145,23 @@ The model is deployed using **Streamlit**, allowing users to enter patient infor
 
 This project is intended for educational and Machine Learning demonstration purposes only. It should not be used as a substitute for professional medical advice or diagnosis.
 
+## 🚜 Tractor Sales Prediction
 
+Machine Learning regression project for predicting monthly tractor sales using historical sales data.
+
+**What I worked on:**
+
+* 📊 EDA & data preprocessing
+* ⚙️ Time-based feature engineering
+* 📈 Lag & rolling-average features
+* 🤖 Linear Regression model
+* 📏 MAE, RMSE & R² evaluation
+* 💾 Model serialization with Pickle
+* 🌐 Streamlit deployment
+
+**Tech:** `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `Pickle` `Streamlit`
+
+**Project:** [🚜 Tractor Sales Prediction](YOUR_REPOSITORY_LINK)
 
 ### 🚀 Space Shooter Pro
 

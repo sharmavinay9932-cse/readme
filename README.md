@@ -87,14 +87,68 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pickle-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
     <p align="center">
 </p>
 
-**Libraries:** `NumPy` • `Pandas` • `Matplotlib` • `Seaborn`
+**Libraries:** `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
 ---
 
 ## 🚀 My Projects
+## ❤️ Heart Disease Prediction
+
+A Machine Learning classification project that predicts the likelihood of heart disease using patient health-related features.
+
+### 🔍 Project Workflow
+
+* 📊 Exploratory Data Analysis (EDA)
+* 🧹 Data Cleaning
+* ⚙️ Data Preprocessing
+* 🔧 Feature Engineering
+* 🎯 Feature Selection
+* 🤖 Model Training
+* 📈 Model Evaluation
+* 💾 Model Serialization using Pickle
+* 🌐 Streamlit Deployment
+
+### 🤖 Model
+
+**K-Nearest Neighbors (KNN)**
+
+The trained model is saved using Pickle along with the preprocessing objects required for prediction.
+
+### 🛠️ Tech Stack
+
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Pickle` • `Streamlit`
+
+### 📁 Project Files
+
+```text
+Heart-Disease-ML/
+│
+├── app.py
+├── HeartdiseaseFinal.ipynb
+├── knn_heart_model.pkl
+├── heart_scaler.pkl
+├── heart_columns.pkl
+├── requirements.txt
+└── README.md
+```
+
+### 🌐 Deployment
+
+The model is deployed using **Streamlit**, allowing users to enter patient information and receive a prediction through an interactive web interface.
+
+### 📌 Disclaimer
+
+This project is intended for educational and Machine Learning demonstration purposes only. It should not be used as a substitute for professional medical advice or diagnosis.
+
+### 🔗 Project Repository
+
+[View Heart Disease Prediction Project](YOUR_GITHUB_REPOSITORY_LINK)
+
 
 ### 🚀 Space Shooter Pro
 

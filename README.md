@@ -103,34 +103,7 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 ## 🚀 My Projects
 
 
-### 🚜 Sonalika Tractor Demand Predictor
 
-**AI-powered tractor demand forecasting and inventory intelligence system.**
-
-An end-to-end Machine Learning application that predicts tractor demand based on region, tractor model, year, month, rainfall, crop prices, dealer count and seasonal patterns.
-
-**Key Features:**
-- 🔮 Tractor demand prediction
-- 📈 12-month demand forecasting
-- 📦 Inventory & reorder recommendations
-- 🤖 AI Assistant
-- 📊 Interactive business dashboard
-- 🌐 Flask REST API
-- ☁️ Deployed on Render
-
-**ML Performance:**
-- R² Score: **80.22%**
-- MAE: **4.74**
-- RMSE: **5.81**
-- Dataset: **2,400 records**
-- Regions: **8**
-- Tractor Models: **5**
-
-**Tech Stack:**  
-`Python` `Pandas` `NumPy` `Scikit-learn` `Flask` `HTML` `CSS` `JavaScript` `Git` `GitHub` `Render`
-
-🔗 **[View Source Code](https://github.com/sharmavinay9932-cse/sonalika-tractor-predictor-with-ai)**  
-🌐 **[Live Demo](https://sonalika-tractor-predictor-with-ai-by.onrender.com)**
 
 ## ❤️ Heart Disease Prediction
 

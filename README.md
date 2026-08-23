@@ -130,7 +130,7 @@ An end-to-end Machine Learning application that predicts tractor demand based on
 `Python` `Pandas` `NumPy` `Scikit-learn` `Flask` `HTML` `CSS` `JavaScript` `Git` `GitHub` `Render`
 
 🔗 **[View Source Code](https://github.com/sharmavinay9932-cse/sonalika-tractor-predictor-with-ai)**  
-🌐 **[Live Demo](https://sonalika-tractor-predictor-with-ai-by-vinay.onrender.com)**
+🌐 **[Live Demo](https://sonalika-tractor-predictor-with-ai-by.onrender.com)**
 
 ## ❤️ Heart Disease Prediction
 

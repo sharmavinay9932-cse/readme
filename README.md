@@ -56,6 +56,9 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
   <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 ---
@@ -72,6 +75,7 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  
 </p>
 
 **Development:** `Jupyter Notebook` • `Spyder` • `VS Code` • `Git` • `GitHub`
@@ -97,6 +101,37 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 ---
 
 ## 🚀 My Projects
+
+
+### 🚜 Sonalika Tractor Demand Predictor
+
+**AI-powered tractor demand forecasting and inventory intelligence system.**
+
+An end-to-end Machine Learning application that predicts tractor demand based on region, tractor model, year, month, rainfall, crop prices, dealer count and seasonal patterns.
+
+**Key Features:**
+- 🔮 Tractor demand prediction
+- 📈 12-month demand forecasting
+- 📦 Inventory & reorder recommendations
+- 🤖 AI Assistant
+- 📊 Interactive business dashboard
+- 🌐 Flask REST API
+- ☁️ Deployed on Render
+
+**ML Performance:**
+- R² Score: **80.22%**
+- MAE: **4.74**
+- RMSE: **5.81**
+- Dataset: **2,400 records**
+- Regions: **8**
+- Tractor Models: **5**
+
+**Tech Stack:**  
+`Python` `Pandas` `NumPy` `Scikit-learn` `Flask` `HTML` `CSS` `JavaScript` `Git` `GitHub` `Render`
+
+🔗 **[View Source Code](https://github.com/sharmavinay9932-cse/sonalika-tractor-predictor-with-ai)**  
+🌐 **[Live Demo](https://sonalika-tractor-predictor-with-ai-by-vinay.onrender.com)**
+
 ## ❤️ Heart Disease Prediction
 
 A Machine Learning classification project that predicts the likelihood of heart disease using patient health-related features.

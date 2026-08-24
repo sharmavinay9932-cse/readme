@@ -102,6 +102,59 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 
 ## 🚀 My Projects
 
+## 🚀 Featured Project — Customer Churn Predictor & AI Retention Assistant
+
+### 📊 Customer Churn Prediction + Generative AI
+
+An end-to-end **Machine Learning + Generative AI** project that predicts customer churn probability and provides AI-powered retention recommendations.
+
+🔗 **[View Project Repository](https://github.com/sharmavinay9932-cse/customer-churn-predictor.git)**  
+🌐 **[Live Demo](https://customer-churn-predictor-fzzrhb2hilxxgxskgvkx8e.streamlit.app/)**
+
+### 🔥 Highlights
+
+- 📊 Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning & Preprocessing
+- ⚙️ Feature Engineering
+- 🎯 Mutual Information-based Feature Selection
+- 🤖 Multiple ML Classification Models
+- 📈 Model Evaluation using Accuracy, Precision, Recall, F1 & ROC-AUC
+- 🔮 Customer Churn Probability Prediction
+- 🖥️ Interactive Streamlit Dashboard
+- 📈 Customer Analytics
+- 🧠 Generative AI Retention Assistant
+- 💡 AI-powered Risk Explanation & Retention Strategies
+- ☁️ Streamlit Cloud Deployment
+
+### 🛠️ Tech Stack
+
+`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`  
+`Scikit-learn` `Joblib` `Streamlit` `OpenAI API`  
+`Git` `GitHub`
+
+### 🧠 Architecture
+
+```text
+Customer Data
+      ↓
+EDA & Data Cleaning
+      ↓
+Feature Engineering
+      ↓
+Feature Selection
+      ↓
+ML Model
+      ↓
+Churn Prediction
+      ↓
+Churn Probability
+      ↓
+Generative AI
+      ↓
+Risk Explanation
+      ↓
+Retention Recommendations
+
 
 
 

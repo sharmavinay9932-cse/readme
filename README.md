@@ -101,6 +101,48 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 ---
 
 ## 🚀 My Projects
+## 🧬 Featured Project — OncoVision AI
+
+### Multi-Cancer Detection & Prediction using ML & Deep Learning
+
+OncoVision AI is an educational AI application that combines traditional Machine Learning and Deep Learning for multi-cancer image and tabular-data classification.
+
+**🩺 Breast Cancer**
+- RBF SVM
+- Tabular medical features
+- Feature preprocessing and scaling
+
+**🔬 Skin Cancer**
+- ResNet18 CNN
+- Transfer Learning
+- Fine-Tuning
+- Image classification
+
+**🫁 Lung Cancer**
+- ResNet18 CNN
+- Transfer Learning & Fine-Tuning
+- 4-class classification
+- Grad-CAM explainability
+
+### 🛠️ Tech Stack
+
+`Python` `PyTorch` `Torchvision` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Streamlit`
+
+### 📸 Project Preview
+
+![OncoVision AI](https://github.com/sharmavinay9932-cse/oncovision-ai/blob/main/screenshot/input_stage.png)
+
+### 🔥 Grad-CAM
+
+![Grad-CAM](https://github.com/sharmavinay9932-cse/oncovision-ai/blob/main/screenshot/gradcam_output.png)
+
+### 🔗 Project
+
+[![GitHub](https://img.shields.io/badge/GitHub-OncoVision%20AI-black?style=for-the-badge&logo=github)](https://github.com/sharmavinay9932-cse/oncovision-ai)
+
+> ⚠️ Educational/research project only. Predictions are not medical diagnoses.
+
+**Developed by Vinay Sharma**
 
 ## 🚀 Featured Project — Customer Churn Predictor & AI Retention Assistant
 

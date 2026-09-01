@@ -105,6 +105,8 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 
 ### Multi-Cancer Detection & Prediction using ML & Deep Learning
 
+Live Demo::--https://oncovision-ai-6fy5xzsepfxiappwvzl7uss.streamlit.app/
+
 OncoVision AI is an educational AI application that combines traditional Machine Learning and Deep Learning for multi-cancer image and tabular-data classification.
 
 **🩺 Breast Cancer**

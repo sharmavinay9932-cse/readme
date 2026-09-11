@@ -467,25 +467,6 @@ Machine Learning regression project for predicting monthly tractor sales using h
 </td>
 
 
-<!-- DATA SCIENCE -->
-<td width="50%" valign="top">
-
-<h2>📊 Python Data Science Practice</h2>
-
-<p>
-📈 A learning repository containing practice with:
-</p>
-
-<p>
-<code>NumPy</code> •
-<code>Pandas</code> •
-<code>Matplotlib</code> •
-<code>Seaborn</code>
-</p>
-
-</td>
-
-</tr>
 
 </table>
 
@@ -493,6 +474,11 @@ Machine Learning regression project for predicting monthly tractor sales using h
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages">
+  <a href="https://github.com/sharmavinay9932-cse">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+      alt="Most Used Languages"
+    />
+  </a>
 </p>
 

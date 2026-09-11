@@ -490,32 +490,9 @@ Machine Learning regression project for predicting monthly tractor sales using h
 </table>
 
 ---
-
-## 📚 Currently Learning
+## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=F78C6C&center=true&vCenter=true&width=650&lines=Python+%F0%9F%90%8D;NumPy+%F0%9F%94%A2;Pandas+%F0%9F%90%BC;Data+Visualization+%F0%9F%93%8A;Statistics+%F0%9F%93%9A;Machine+Learning+%F0%9F%A4%96;Artificial+Intelligence+%F0%9F%A7%A0" alt="Currently Learning">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages">
 </p>
 
----
-
-## 🎯 My Learning Roadmap
-
-```text
-💻 C
-   ↓
-🔥 C++
-   ↓
-🐍 Python
-   ↓
-🔢 NumPy + 🐼 Pandas
-   ↓
-📊 Data Visualization
-   ↓
-📚 Statistics
-   ↓
-🤖 Machine Learning
-   ↓
-🧠 Deep Learning
-   ↓
-🚀 AI/ML Projects

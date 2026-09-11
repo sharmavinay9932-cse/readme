@@ -474,11 +474,7 @@ Machine Learning regression project for predicting monthly tractor sales using h
 ## 💻 Most Used Languages
 
 <p align="center">
-  <a href="https://github.com/sharmavinay9932-cse">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-      alt="Most Used Languages"
-    />
-  </a>
-</p>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavinay9932-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+
+</p>

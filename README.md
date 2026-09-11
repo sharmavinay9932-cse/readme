@@ -38,10 +38,9 @@
 🚀 Working towards becoming an **AI/ML Engineer**
 
 ---
+# 🏢 Training
 
-## 🏢 Training
-
-### Sonalika International Tractors Ltd.
+## Sonalika International Tractors Ltd.
 
 **Industrial Training**
 
@@ -49,11 +48,9 @@ Completed industrial training at **Sonalika International Tractors Ltd.**, gaini
 
 ### 🎯 Training Highlights
 
-* 🏭 Professional industrial environment
-* 🔧 Technical and operational exposure
-* 📚 Practical learning
-* 👨‍💻 Professional work culture
-* 🎯 Understanding real-world workflows
+| 🏭 | 🔧 | 📚 | 👨‍💻 | 🎯 |
+|---|---|---|---|---|
+| Professional industrial environment | Technical and operational exposure | Practical learning | Professional work culture | Understanding real-world workflows |
 
 ---
 
